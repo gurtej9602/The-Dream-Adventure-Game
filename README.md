@@ -26,3 +26,5 @@ it is a simple CUI game made in python simple.
 * Enjoy the game!
 # License
 This project is licensed under the MIT License.
+# Special Thanks 
+A heartfelt thank you to my dad for his constant support, encouragement and motivation has been invaluable in helping me learn and grow as a developer.
